@@ -1,0 +1,40 @@
+# Demo brief（展示用）
+
+来源：run-2026-09-02.md，已按 prd-v2 修改。
+观众：内部评审 / 实习面试，不是交易用户。
+
+STABLECOIN BRIEF
+Not a trade recommendation. 不是交易建议。
+============================================================
+QUESTION
+用户看到稳定币 1:1，会不会以为自己能立刻向发行方兑成美元？
+
+1. CONCLUSION (≤3 sentences)
+- 「1:1」是发行方对锚定/储备的主张，不等于每个持有人都能向发行方即时兑成美元。
+- Circle Mint 页写明该产品不对零售个人、不为个人铸币开放；个人通常通过交易所等渠道获得或卖出 USDC。
+- 对内材料必须写清「谁能向发行方赎回」，避免只写 1:1。
+
+2. FACTS (delete any line without a URL)
+- ether International, S.A. de C.V.https://tether.to/en/legal/	
+- 由 Circle 发行的受监管数字美元，宣称 1:1 兑美元。URL：https://www.circle.com/usdc
+- USDC 由 Circle 发行。 https://www.circle.com/usdc
+- Circle 称 USDC 由高流动性现金及现金等价物 100% 支持。 https://www.circle.com/usdc
+- Circle Mint 1:1 兑 USD 面向机构，不对个人开放。 https://www.circle.com/usdc
+- Tether 称其代币 1-to-1 锚定并由储备 100% 支持。 https://tether.to/en/transparency/
+- 	Circle Mint 不对零售个人、不为个人铸币开放。 https://www.circle.com/circle-mint
+
+PRODUCT OPTIONS
+- A. 内部材料强制写清「谁能向发行方赎回」（v1）
+- B. 对客页面在 1:1 旁加赎回对象说明（需法务，v1 不做对客）
+- C. 维持只写 1:1
+
+UNVERIFIED (move leftover claims here)
+- 个人向 Tether 直接赎回的条件（本日未作为块 B 必开页核对）。
+- 各交易所入金出金到账时间。
+
+5. METRIC HYPOTHESIS
+   If we shipped this, we would watch:
+   -5 人读完后，有几人认为自己能向发行方按 1 美元兑现金。
+============================================================
+
+Next: fill Facts from docs/compare-table.md only.
